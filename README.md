@@ -1,3 +1,4 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b09b13ad45bc43ce9bc5564ea4e1a215)](https://app.codacy.com/gh/tuanwannafly/job-hunter/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 # 🚀 Java Spring RESTful APIs - Xây Dựng Backend với Spring Boot
 
 This is the **starter project** for the **Java Spring RESTful APIs - Xây Dựng Backend với Spring Boot** course by **Hỏi Dân IT**.
