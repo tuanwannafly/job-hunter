@@ -5,7 +5,8 @@
 
 version: 2
 updates:
-  - package-ecosystem: "" # See documentation for possible values
-    directory: "/" # Location of package manifests
+  - package-ecosystem: "maven" # Phải là chữ thường, nằm trong ngoặc kép
+    directory: "/" # Thư mục chứa file pom.xml
     schedule:
-      interval: "weekly" # Quét hàng tuần
+      interval: "weekly" # Tần suất quét (daily, weekly, monthly)
+    open-pull-requests-limit: 5 # Giới hạn số lượng PR do Dependabot tạo ra
