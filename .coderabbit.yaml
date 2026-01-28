@@ -1,4 +1,4 @@
-language: "eng" 
+language: "en-US" 
 reviews:
   profile: "chill" 
   high_level_summary: true
